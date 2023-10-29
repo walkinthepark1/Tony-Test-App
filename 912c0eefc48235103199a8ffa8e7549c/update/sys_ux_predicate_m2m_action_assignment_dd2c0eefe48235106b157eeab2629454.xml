@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="view_doc">dd2c0eef5882351029db5033d7b44b91</declarative_action_assignment>
+        <predicate display_value="Document Approval Genius Result">592c0eef7582351036592089242a3259</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:26</sys_created_on>
+        <sys_id>dd2c0eefe48235106b157eeab2629454</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_dd2c0eefe48235106b157eeab2629454</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:26</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

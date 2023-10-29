@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_genius_result_configuration">
+    <ais_genius_result_configuration action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <handler_type>search</handler_type>
+        <name>Document Approval Genius Result</name>
+        <return_fields>number,name,approval_category,submitter, status, description,sys_id</return_fields>
+        <script><![CDATA[function process(context) {
+	var answer = new sn_ais.GeniusResultAnswer();
+	answer.setTable('x_165991_tony_test_document_approval');
+	answer.setEncodedQuery('active=true');
+	answer.addSearchPhrases([context.getOriginalSearchPhrase()]);
+	answer.setSearchLimit(1);
+	return answer;
+}]]></script>
+        <sys_class_name>ais_genius_result_configuration</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:13</sys_created_on>
+        <sys_id>5d2c0eefd3823510dc5c0576f1fa8a9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approval Genius Result</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>ais_genius_result_configuration_5d2c0eefd3823510dc5c0576f1fa8a9a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:13</sys_updated_on>
+        <term/>
+        <trigger_condition>always</trigger_condition>
+    </ais_genius_result_configuration>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Reject document">d92c0eeff48235102496f3125f5fbb71</button>
+        <color_theme>destructive</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Reject</label>
+        <location>footer</location>
+        <name>Reject</name>
+        <order>10</order>
+        <parent>5d2c0eef2382351017f581dfa13dd06f</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:22</sys_created_on>
+        <sys_id>9d2c0eefc88235108d95c628ac86716f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_sg_button_instance_9d2c0eefc88235108d95c628ac86716f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:22</sys_updated_on>
+        <table>x_165991_tony_test_document_approver</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=9d2c0eefc88235108d95c628ac86716f"/>
+</record_update>

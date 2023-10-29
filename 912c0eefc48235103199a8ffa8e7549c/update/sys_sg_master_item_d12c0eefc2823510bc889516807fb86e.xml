@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_165991_tony_test_document_approver</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Document Approval">512c0eefc7823510e341fd31a456766f</embedded_screen>
+        <item_view/>
+        <name>Approvals this year Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:21</sys_created_on>
+        <sys_id>d12c0eefc2823510bc889516807fb86e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approvals this year Main Item</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_sg_master_item_d12c0eefc2823510bc889516807fb86e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:21</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Document Approvals View Config">5d2c0eef8d823510817be8a0a379b06e</view_config>
+    </sys_sg_master_item>
+</record_update>

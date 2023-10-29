@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Approve document">592c0eef508235100ab1097889aba971</button>
+        <item_parameter display_value="comments">552c0eef4f823510f412f485dd102471</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:20</sys_created_on>
+        <sys_id>d52c0eef19823510e942256304838f71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>552c0eef4f823510f412f485dd102471</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_d52c0eef19823510e942256304838f71</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:20</sys_updated_on>
+        <ui_parameter display_value="Reason for approving">5d2c0eefcd8235101b503df8774cc271</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

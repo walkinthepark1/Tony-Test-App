@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>searchEvamDefinitionId</name>
+        <page display_value="Tony Test Portal">152c0eefc6823510d4eb1e127acb629b</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>512c0eef6b82351002ff461565398956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>searchEvamDefinitionId</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_ux_page_property_512c0eef6b82351002ff461565398956</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:23</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_165991_tony_test.152c0eefc6823510d4eb1e127acb629b.root.searchEvamDefinitionId</unique_name>
+        <value>592c0eef648235101c70860a79bb535a</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=512c0eef6b82351002ff461565398956"/>
+</record_update>

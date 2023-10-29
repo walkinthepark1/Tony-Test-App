@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_workspace_declarative_action_exclusion">
+    <sys_workspace_declarative_action_exclusion action="INSERT_OR_UPDATE">
+        <action_assignment display_value="Export">99c2f6b273131010a0a79329faf6a710</action_assignment>
+        <exclude_all_child_tables>false</exclude_all_child_tables>
+        <exclude_self>true</exclude_self>
+        <sys_class_name>sys_workspace_declarative_action_exclusion</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:28</sys_created_on>
+        <sys_id>5d2c0eefb4823510d0bd28cae4d5b151</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_165991_tony_test_document_approver</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_workspace_declarative_action_exclusion_5d2c0eefb4823510d0bd28cae4d5b151</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:28</sys_updated_on>
+        <table>x_165991_tony_test_document_approver</table>
+    </sys_workspace_declarative_action_exclusion>
+</record_update>

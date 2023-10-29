@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Doc Approval Workspace App Config">112c0eeff3823510e94c45500dc96a9b</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon>paperclip-fill</icon>
+        <name>Attachments</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Record">1d2c0eef46823510f8190480fb833964</parent_macroponent>
+        <parent_macroponent_composition_element_id>contextual_sidebar</parent_macroponent_composition_element_id>
+        <route_type>attachments</route_type>
+        <screen_type display_value="Attachments">5d2c0eef20823510f381f86d8f89425f</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:27</sys_created_on>
+        <sys_id>192c0eeff58235109e8beb0a2b6e055f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachments</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_ux_app_route_192c0eeff58235109e8beb0a2b6e055f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:27</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=192c0eeff58235109e8beb0a2b6e055f"/>
+</record_update>

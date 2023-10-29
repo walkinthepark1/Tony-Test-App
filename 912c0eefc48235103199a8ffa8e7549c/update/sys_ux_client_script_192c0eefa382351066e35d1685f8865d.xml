@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Search results">952c0eef78823510ae6cc8bc444b655e</macroponent>
+        <name>Handle Facet Click</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    imports,
+    helpers
+}) {
+
+    const props = api.context.props;
+    helpers.navigate.to('search', {
+        searchContextConfigId: props.searchContextConfigId
+    }, {
+        searchFilters: props.searchFilters,
+        facetFilters: event.payload.selectedFilters,
+        disableSpellCheck: props.disableSpellCheck,
+        searchTerm: props.searchTerm
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:15</sys_created_on>
+        <sys_id>192c0eefa382351066e35d1685f8865d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Handle Facet Click</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_ux_client_script_192c0eefa382351066e35d1685f8865d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:15</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
+    <sys_sg_ui_rule_action action="INSERT_OR_UPDATE">
+        <operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation>
+        <order/>
+        <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:14</sys_created_on>
+        <sys_id>592c0eef54823510bb19f38d6042c06c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_action_592c0eef54823510bb19f38d6042c06c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:14</sys_updated_on>
+        <target>viewgroup_01</target>
+        <ui_rule display_value="Submitted state rules for document approvals - List View Config">992c0eeff582351029a0fb617378506c</ui_rule>
+        <value>{"BackgroundColor":"#C3DDF0"}</value>
+    </sys_sg_ui_rule_action>
+</record_update>

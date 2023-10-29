@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_transform">
+    <sys_ux_data_broker_transform action="INSERT_OR_UPDATE">
+        <acl_failure_result/>
+        <api_name>x_165991_tony_test.Heading</api_name>
+        <description/>
+        <mutates_server_data>false</mutates_server_data>
+        <name>Heading</name>
+        <output_schema/>
+        <private>false</private>
+        <props>[{      "name":"userSessionFirstName",&#13;
+      "label":"User Session",&#13;
+      "description":"User Session",&#13;
+      "readOnly":false,&#13;
+      "fieldType":"object",&#13;
+      "mandatory":true,&#13;
+      "defaultValue":{}&#13;
+   }]</props>
+        <required_translations>[{"message":"User Session","comment":""}]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <script><![CDATA[function transform(input) {
+	
+    return gs.getMessage("{0}'s Document Approvals",input.userSessionFirstName);
+	
+}]]></script>
+        <sys_class_name>sys_ux_data_broker_transform</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:14</sys_created_on>
+        <sys_id>dd2c0eef4582351066b977be4d9df772</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Heading</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_ux_data_broker_transform_dd2c0eef4582351066b977be4d9df772</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:14</sys_updated_on>
+    </sys_ux_data_broker_transform>
+    <sys_translated_text action="delete_multiple" query="documentkey=dd2c0eef4582351066b977be4d9df772"/>
+</record_update>

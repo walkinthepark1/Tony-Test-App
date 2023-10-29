@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_165991_tony_test.submitter" name="x_165991_tony_test.submitter">952c0eefc98235101165afbb24e58d9b</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:12</sys_created_on>
+        <sys_id>192c0eefb0823510ae1f1bfa19b3fd65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_user_role_contains_192c0eefb0823510ae1f1bfa19b3fd65</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:12</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

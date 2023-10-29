@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script><![CDATA[(function WriteBackAction(input) {
+    //Type appropriate comment here, and begin script below
+    var recordId = input.sys_id;
+
+    var grDocApproval = new GlideRecord('x_165991_tony_test_document_approver');
+    if (grDocApproval.get(recordId)) {
+        grDocApproval.comments = input.comments;
+        grDocApproval.state = "approved";
+        grDocApproval.update();
+
+        gs.addInfoMessage(gs.getMessage("{0} approved.", grDocApproval.document.name));
+    }
+
+})(input);]]></execution_script>
+        <name>wb_approve_document</name>
+        <parameter_screen/>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:21</sys_created_on>
+        <sys_id>d52c0eefec82351097a4fcdd01382270</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>wb_approve_document</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_d52c0eefec82351097a4fcdd01382270</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:21</sys_updated_on>
+        <table>x_165991_tony_test_document_approver</table>
+        <template/>
+        <type>script</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=d52c0eefec82351097a4fcdd01382270"/>
+</record_update>

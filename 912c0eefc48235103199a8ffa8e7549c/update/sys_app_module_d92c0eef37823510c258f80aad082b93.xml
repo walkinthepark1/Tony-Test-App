@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Tony Test">dd2c0eef3e823510fa08ff04019e0493</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Document Approval Portal</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>15</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>/x/165991/x_165991_tony_test-doc-approval/portal</query>
+        <report/>
+        <roles>x_165991_tony_test.submitter</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d92c0eef37823510c258f80aad082b93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approval Portal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_app_module_d92c0eef37823510c258f80aad082b93</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:23</sys_updated_on>
+        <timeline_page/>
+        <title>Document Approval Portal</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>_blank</window_name>
+    </sys_app_module>
+</record_update>

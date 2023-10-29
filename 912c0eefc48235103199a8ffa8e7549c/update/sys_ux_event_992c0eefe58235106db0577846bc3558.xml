@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>CONTENT_UPDATED_RELAY_9d2c0eefc78235103415ffcbcb3f1a5e</event_name>
+        <interfaces/>
+        <label>Add parameters to URL Relay (List default)</label>
+        <props>[{"name":"params","fieldType":"json","interfaceApiName":null,"label":"Parameters"}]</props>
+        <required_translations>[{"message":"Parameters","comment":""}]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:20</sys_created_on>
+        <sys_id>992c0eefe58235106db0577846bc3558</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add parameters to URL Relay (List default)</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_ux_event_992c0eefe58235106db0577846bc3558</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:20</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=992c0eefe58235106db0577846bc3558"/>
+</record_update>

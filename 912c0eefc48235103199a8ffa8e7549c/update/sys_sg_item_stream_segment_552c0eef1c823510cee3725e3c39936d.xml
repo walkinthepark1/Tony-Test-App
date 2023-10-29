@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows/>
+        <name>Item Stream Segment</name>
+        <order>10</order>
+        <screen display_value="Approvals this month">512c0eef978235107c19c14620e7c370</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:21</sys_created_on>
+        <sys_id>552c0eef1c823510cee3725e3c39936d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Item Stream Segment</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_552c0eef1c823510cee3725e3c39936d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:21</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

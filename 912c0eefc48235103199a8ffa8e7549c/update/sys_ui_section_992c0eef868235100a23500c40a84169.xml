@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="992c0eef868235100a23500c40a84169" sys_domain="global" table="x_165991_tony_test_document_approval_category" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-29 01:33:16</sys_created_on>
+            <sys_id>d12c0eef3d82351067b5ffc4f1b00969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165991_tony_test_document_approval_category" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">992c0eef868235100a23500c40a84169</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-29 01:33:16</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-29 01:33:16</sys_created_on>
+            <sys_id>552c0eef63823510ad43fca4d21d0c69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165991_tony_test_document_approval_category" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">992c0eef868235100a23500c40a84169</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-29 01:33:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-29 01:33:16</sys_created_on>
+            <sys_id>152c0eef418235106a82de6531e44c69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165991_tony_test_document_approval_category" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">992c0eef868235100a23500c40a84169</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-29 01:33:16</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>use_flow</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-29 01:33:16</sys_created_on>
+            <sys_id>d52c0eef2e823510401a5a8b2a35e469</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165991_tony_test_document_approval_category" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">992c0eef868235100a23500c40a84169</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-29 01:33:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-29 01:33:16</sys_created_on>
+            <sys_id>592c0eef948235107f6ae4b28707f668</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165991_tony_test_document_approval_category" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">992c0eef868235100a23500c40a84169</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-29 01:33:16</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-29 01:33:16</sys_created_on>
+            <sys_id>112c0eef6f82351050d125f6b3804869</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165991_tony_test_document_approval_category" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">992c0eef868235100a23500c40a84169</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-29 01:33:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-29 01:33:16</sys_created_on>
+            <sys_id>5d2c0eeffd823510de5b2e447012cb68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_165991_tony_test_document_approval_category" sys_domain="global" view="4736b0a03cb1311068bcf327dfe37f81">992c0eef868235100a23500c40a84169</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-29 01:33:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_165991_tony_test_document_approval_category</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-29 01:33:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>992c0eef868235100a23500c40a84169</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_165991_tony_test_document_approval_category</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+            <sys_update_name>sys_ui_section_992c0eef868235100a23500c40a84169</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-29 01:33:16</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">4736b0a03cb1311068bcf327dfe37f81</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

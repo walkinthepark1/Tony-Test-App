@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="doc-approval-get-all">992c0eef5c8235109ea50ad86d88385a</dataset>
+        <order>1</order>
+        <predicate_bundle display_value="document-approval-view-config-bundle">512c0eef6a8235101711393c4361c95a</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:12</sys_created_on>
+        <sys_id>d92c0eef4782351061a2aa10d005a459</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_d92c0eef4782351061a2aa10d005a459</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:12</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

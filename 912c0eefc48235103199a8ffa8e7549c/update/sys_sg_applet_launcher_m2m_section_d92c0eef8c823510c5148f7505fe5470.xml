@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Tony Test">5d2c0eef3d823510e46cf264eb1e8170</applet_launcher>
+        <order>10</order>
+        <section display_value="Document Approvals">9d2c0eefac823510b5aa175144d93470</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:24</sys_created_on>
+        <sys_id>d92c0eef8c823510c5148f7505fe5470</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_d92c0eef8c823510c5148f7505fe5470</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:24</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

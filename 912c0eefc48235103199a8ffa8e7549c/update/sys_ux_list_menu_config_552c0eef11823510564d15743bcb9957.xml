@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Configuration for list menu UIB experience for admin.</description>
+        <name>Tony Test - Workspace - Admin</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:15</sys_created_on>
+        <sys_id>552c0eef11823510564d15743bcb9957</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tony Test - Workspace - Admin</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_552c0eef11823510564d15743bcb9957</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:15</sys_updated_on>
+    </sys_ux_list_menu_config>
+</record_update>

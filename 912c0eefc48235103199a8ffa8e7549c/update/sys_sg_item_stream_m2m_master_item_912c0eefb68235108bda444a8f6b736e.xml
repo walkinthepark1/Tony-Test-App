@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Approvals this year Item Stream">552c0eef91823510d3afd9453639de6e</item_stream>
+        <master_item display_value="Approvals this year Main Item">d12c0eefc2823510bc889516807fb86e</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:21</sys_created_on>
+        <sys_id>912c0eefb68235108bda444a8f6b736e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_912c0eefb68235108bda444a8f6b736e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:21</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

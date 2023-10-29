@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="di_document_pending_approvals">552c0eef1e82351041dc1ab91e9fba6f</data_item>
+        <interleaved_field/>
+        <name>New Document Aprpovals Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:26</sys_created_on>
+        <sys_id>592c0eef58823510b3b550b53d98016e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Document Aprpovals Item Stream</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_sg_item_stream_592c0eef58823510b3b550b53d98016e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:26</sys_updated_on>
+        <table>x_165991_tony_test_document_approver</table>
+    </sys_sg_item_stream>
+</record_update>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_chart_color_schemes">
+    <pa_chart_color_schemes action="INSERT_OR_UPDATE">
+        <color_1 display_value="#003B31">d52c0eefaf823510274eebc73acb1b94</color_1>
+        <color_10/>
+        <color_11/>
+        <color_12/>
+        <color_13/>
+        <color_14/>
+        <color_15/>
+        <color_16/>
+        <color_17/>
+        <color_18/>
+        <color_19/>
+        <color_2 display_value="#007A62">912c0eef4882351060a5d3bf0ae87294</color_2>
+        <color_20/>
+        <color_21/>
+        <color_22/>
+        <color_23/>
+        <color_24/>
+        <color_25/>
+        <color_26/>
+        <color_27/>
+        <color_28/>
+        <color_29/>
+        <color_3 display_value="#81B5A1">192c0eefb18235103852def5b8c94994</color_3>
+        <color_30/>
+        <color_31/>
+        <color_32/>
+        <color_4 display_value="#E3F4ED">152c0eeff08235106796063e587fda94</color_4>
+        <color_5/>
+        <color_6/>
+        <color_7/>
+        <color_8/>
+        <color_9/>
+        <description>Document Approval Chart Color Scheme</description>
+        <name>Document Approval Chart Color Scheme</name>
+        <sys_class_name>pa_chart_color_schemes</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d12c0eefec823510e448c20528f03194</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approval Chart Color Scheme</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>pa_chart_color_schemes_d12c0eefec823510e448c20528f03194</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:27</sys_updated_on>
+    </pa_chart_color_schemes>
+    <sys_translated_text action="delete_multiple" query="documentkey=d12c0eefec823510e448c20528f03194"/>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Doc Approval Portal App Config">552c0eef38823510736b18bdf291f09b</app_config>
+        <description/>
+        <extension_point/>
+        <fields>sysId</fields>
+        <icon/>
+        <name>doc_submit</name>
+        <optional_parameters>activityLog</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>doc_submit</route_type>
+        <screen_type display_value="doc_submit">112c0eef668235109a1dc7ef9d6cb860</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:23</sys_created_on>
+        <sys_id>952c0eef6b8235106854b10b0826fb60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>doc_submit</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_ux_app_route_952c0eef6b8235106854b10b0826fb60</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:23</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=952c0eef6b8235106854b10b0826fb60"/>
+</record_update>

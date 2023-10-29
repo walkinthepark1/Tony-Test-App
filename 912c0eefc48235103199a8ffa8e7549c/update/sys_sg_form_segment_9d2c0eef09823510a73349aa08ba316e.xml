@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Activity">dd2c0eef6382351031f975a4b0134c70</embedded_screen>
+        <form display_value="Document Approval">512c0eefc7823510e341fd31a456766f</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>20</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:28</sys_created_on>
+        <sys_id>9d2c0eef09823510a73349aa08ba316e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_sg_form_segment_9d2c0eef09823510a73349aa08ba316e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:28</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

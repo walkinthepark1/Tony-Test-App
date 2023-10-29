@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="name" label="name" language="en" table="var__m_sys_search_genius_result_field_e7a2f030b7616010116b6871ce11a92a">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <help/>
+            <hint/>
+            <label>name</label>
+            <language>en</language>
+            <name>var__m_sys_search_genius_result_field_e7a2f030b7616010116b6871ce11a92a</name>
+            <plural>name</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-29 01:33:28</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>name</sys_name>
+            <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_search_genius_result_field_e7a2f030b7616010116b6871ce11a92a_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-29 01:33:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

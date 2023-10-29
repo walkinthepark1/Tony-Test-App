@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_165991_tony_test_document_approver" version="2" view="text_search">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>document</element>
+            <list_id display_value="x_165991_tony_test_document_approver" element="NULL" name="x_165991_tony_test_document_approver" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">dd2c0eefe8823510cad8f141e52ef269</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-29 01:33:26</sys_created_on>
+            <sys_id>512c0eef918235107ddf074bcbb1946a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-29 01:33:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approver</element>
+            <list_id display_value="x_165991_tony_test_document_approver" element="NULL" name="x_165991_tony_test_document_approver" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">dd2c0eefe8823510cad8f141e52ef269</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-29 01:33:26</sys_created_on>
+            <sys_id>d92c0eefd1823510e9d2873ce2a11069</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-29 01:33:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_165991_tony_test_document_approver" element="NULL" name="x_165991_tony_test_document_approver" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">dd2c0eefe8823510cad8f141e52ef269</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-29 01:33:26</sys_created_on>
+            <sys_id>192c0eef9c823510525b6d8c598a1769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-29 01:33:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_165991_tony_test_document_approver" element="NULL" name="x_165991_tony_test_document_approver" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">dd2c0eefe8823510cad8f141e52ef269</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-29 01:33:26</sys_created_on>
+            <sys_id>952c0eeff1823510be3855825af9c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-29 01:33:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_165991_tony_test_document_approver</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-29 01:33:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd2c0eefe8823510cad8f141e52ef269</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_165991_tony_test_document_approver</sys_name>
+            <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+            <sys_update_name>sys_ui_list_x_165991_tony_test_document_approver_text_search</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-29 01:33:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Text_search" name="text_search">0c029fc00a0a0b2c001aa3d4ed9f69e8</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>720</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>true</case_sensitive>
+        <data_source>sn_doc_approval_document_approval</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>Document Approval Search Profile Default Spell Check Dictionary</label>
+        <last_derived>2021-01-27 02:58:34</last_derived>
+        <locale>en</locale>
+        <name>x_165991_tony_test_document_approval_sea</name>
+        <publish_id>9a946091-7bb9-4cf3-a298-cf34bf7d3ca4</publish_id>
+        <punctuation_sensitive>true</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:26</sys_created_on>
+        <sys_id>912c0eef708235100cdcb59cff2b019b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_165991_tony_test_document_approval_sea</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>ais_dictionary_912c0eef708235100cdcb59cff2b019b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:26</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

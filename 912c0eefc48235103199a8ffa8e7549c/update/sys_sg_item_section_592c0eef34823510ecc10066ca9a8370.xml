@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_section">
+    <sys_sg_item_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <card_size/>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <destination_screen display_value="New Document Approvals">192c0eeffc823510e070a5ea21925e6e</destination_screen>
+        <display_title>true</display_title>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <hide_see_all_button>false</hide_see_all_button>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <max_items_display_count>15</max_items_display_count>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <row_count/>
+        <scrolling_type/>
+        <sys_class_name>sys_sg_item_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 01:33:16</sys_created_on>
+        <sys_id>592c0eef34823510ecc10066ca9a8370</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Document Approvals</sys_name>
+        <sys_package display_value="Tony Test" source="x_165991_tony_test">912c0eefc48235103199a8ffa8e7549c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tony Test">912c0eefc48235103199a8ffa8e7549c</sys_scope>
+        <sys_update_name>sys_sg_item_section_592c0eef34823510ecc10066ca9a8370</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 01:33:16</sys_updated_on>
+        <table/>
+        <title>New Document Approvals</title>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_item_section>
+</record_update>
